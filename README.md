@@ -6,15 +6,15 @@ The **"Potato Disease Classification and Prediction"** project is aimed at devel
 
 ## Key Features:
 
-**Image Classification:**The core feature of this project involves the classification of potato leaf images into three main categories: Early Blight, Late Blight, and Normal Health Plant.
+**Image Classification:** The core feature of this project involves the classification of potato leaf images into three main categories: Early Blight, Late Blight, and Normal Health Plant.
 
-**Model Training:**The project utilizes a convolutional neural network (CNN) to learn from a labeled dataset of potato leaf images. The model is trained to differentiate between different disease states and healthy plants.
+**Model Training:** The project utilizes a convolutional neural network (CNN) to learn from a labeled dataset of potato leaf images. The model is trained to differentiate between different disease states and healthy plants.
 
 **Prediction**:The trained model is integrated into an interactive web application using the Streamlit framework. Users can upload images of potato leaves to the application, and the model predicts the disease class along with a confidence score.
 
-**User-Friendly Interface:**The Streamlit-based interface offers a user-friendly experience. It allows users, including farmers and agricultural experts, to easily upload images and receive instant predictions without requiring technical expertise.
+**User-Friendly Interface:** The Streamlit-based interface offers a user-friendly experience. It allows users, including farmers and agricultural experts, to easily upload images and receive instant predictions without requiring technical expertise.
 
-**Real-World Application:**The project has practical implications in agriculture. Early detection of diseases enables timely interventions and management strategies, potentially saving crops and increasing agricultural productivity.
+**Real-World Application:** The project has practical implications in agriculture. Early detection of diseases enables timely interventions and management strategies, potentially saving crops and increasing agricultural productivity.
 
 # Technologies Used:
 
