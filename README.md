@@ -40,3 +40,7 @@ Used for building, training, and deploying the convolutional neural network for 
 
 
 The **"Potato Disease Classification and Prediction"** project is a practical application of machine learning technology that addresses real-world agricultural challenges. It empowers farmers with the tools they need to ensure healthier potato crops, minimize losses, and contribute to sustainable agriculture practices.
+
+## DEMO
+
+Streamlit app [link](https://sarathkumar1304-deep-learning-potato-leaf-disease-pr-app-vee6ta.streamlit.app/)
